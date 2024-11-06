@@ -1,4 +1,6 @@
 package br.edu.infnet.mario.pagnozzi.model.service;
+import java.util.Collection;
+//import java.util.List;
 
 import org.springframework.stereotype.Service;
 
@@ -10,7 +12,7 @@ public class VendedorService {
 	public void incluir(Vendedor vendedor) {
 		
 	}
-	public List<Vendedor> ObterLista(){
-		return null
-	}
+	 public List<Vendedor> obterVendedor() {
+		 return null;
+	 }
 }

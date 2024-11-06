@@ -9,6 +9,7 @@ import br.edu.infnet.mario.pagnozzi.model.domain.Vendedor;
 @Service
 public class VendedorService {
 
+	//teste
 	public void incluir(Vendedor vendedor) {
 		
 	}
